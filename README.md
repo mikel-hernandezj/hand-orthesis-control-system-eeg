@@ -2,7 +2,7 @@
 
 This was a project developed during the PBL (Project Based Learning) phase of our mater's degree in Biomedical Technologies.
 
-# ABSTRACT
+## ABSTRACT
 During the last years, advancements Brain-Computer Interface (BCI) have allowed
 humans to establish direct communication between thoughts and computers.
 Electroencephalography (EEG) is a measurement technique that records the neural
